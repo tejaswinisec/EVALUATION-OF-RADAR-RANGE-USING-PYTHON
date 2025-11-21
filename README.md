@@ -55,7 +55,6 @@ plot(G_values, Pr_G);
 _Output:
 <img width="1715" height="1010" alt="Screenshot 2025-11-20 234632" src="https://github.com/user-attachments/assets/b1dd8d0b-0d4d-45d0-9092-623180aa659b" />
 
-![WhatsApp Image 2025-11-21 at 12 43 56_6cbc3366](https://github.com/user-attachments/assets/a5a77649-bcdf-4fe6-90a9-0ca9164fe115)
 
    __Result__:
    
