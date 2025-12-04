@@ -55,6 +55,7 @@ plot(G_values, Pr_G);
 _Output:
 <img width="1715" height="1010" alt="Screenshot 2025-11-20 234632" src="https://github.com/user-attachments/assets/b1dd8d0b-0d4d-45d0-9092-623180aa659b" />
 
+<img width="1019" height="710" alt="image" src="https://github.com/user-attachments/assets/86d59bae-d95d-4228-ac14-eb653ff03510" />
 
    __Result__:
    
